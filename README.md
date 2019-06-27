@@ -1,4 +1,4 @@
-# My_Publications
+# Sean (Shayan) Taheri's Publications
 
 This repository provides information about my publications:
 
