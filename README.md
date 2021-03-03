@@ -2,7 +2,7 @@
 
 This repository provides information about my publications:
 
-### 1. Why Is Deep Learning Challenging for Printed Circuit Board (PCB) Component Recognition and How Can We Address It?: https://www.mdpi.com/2410-387X/5/1/9
+### 1. Why Is Deep Learning Challenging for Printed Circuit Board (PCB) Component Recognition and How Can We Address It?: https://www.mdpi.com/2410-387X/5/1/9; and https://github.com/shayan-taheri/AEG_Pix2Pix.
 ### 2. Developing a Robust Defensive System against Adversarial Examples Using Generative Adversarial Networks: https://www.mdpi.com/2504-2289/4/2/11
 ### 3. RazorNet: Adversarial Training and Noise Training on a Deep Neural Network Fooled by a Shallow Neural Network: https://www.mdpi.com/2504-2289/3/3/43
 ### 4. Utilizing Transfer Learning and Homomorphic Encryption in a Privacy Preserving and Secure Biometric Recognition System: https://www.mdpi.com/2073-431X/8/1/3
